@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Rahul Krishna S👋
+
+I'm a Computer Science undergraduate interested in Artificial Intelligence, Machine Learning, and Software Development.
+
 
 <!--
 **rahulkrishna-s/rahulkrishna-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
