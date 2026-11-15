@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Krishna S👋
 
-I'm a Computer Science undergraduate interested in Artificial Intelligence, Machine Learning, and Software Development.
+I'm a M.Sc. Computer Science student interested in Artificial Intelligence, Machine Learning, and Software Development.
 
 
 <!--
