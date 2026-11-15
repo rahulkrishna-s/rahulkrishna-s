@@ -1,11 +1,11 @@
-# Hi, I'm Rahul Krishna S👋
+# Hi, I'm Rahul Krishna S 👋
 
-I'm a M.Sc. Computer Science student interested in Artificial Intelligence, Machine Learning, and Software Development.
+I'm an **M.Sc. Computer Science student at CUSAT** specializing in AI. 
 
-
-<!--
-**rahulkrishna-s/rahulkrishna-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🔭 **Building:** AI-driven applications, GenAI tools, and open-source software
+- 🛠️ **Tech Stack:** Python, Machine Learning, Data Analysis, Streamlit
+- 🎓 **Background:** B.Sc. Computer Science Graduate
+- 📫 **Looking for:** AI/Software Engineering Internships & Collaborations
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
